@@ -1,8 +1,11 @@
   👋 ¡Hola!, soy Albany Vergel y vivo en Mérida Venezuela.
+  
   Me dedico al Desarrollo Web como Frontend developer.
+  
   💖 Me encanta aprender nuevas tecnologías y emplearlas en proyectos atractivos e innovadores que me permitan crecer como profesional y aportar al increíble mundo del desarrollo. Como programador autodidacta la disciplina, paciencia y constancia son mis mayores aliados.
 
   Skills:
+  
 📌 HTML - CSS - JS - PHP
 
 📌 PUG - SASS - MySQL 
