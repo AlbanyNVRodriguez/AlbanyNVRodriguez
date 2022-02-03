@@ -1,4 +1,4 @@
-  👋 ¡Hola!, soy Albany Vergel y vivo en Mérida Venezuela.
+  👋 ¡Hola!, mi nombre es Albany Vergel y vivo en Mérida Venezuela.
   
   Me dedico al Desarrollo Web como Frontend developer.
   
