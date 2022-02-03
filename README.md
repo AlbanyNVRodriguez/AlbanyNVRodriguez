@@ -6,11 +6,13 @@
 
   Skills:
   
-📌 HTML - CSS - JS - PHP
+📌 HTML - PUG
 
-📌 PUG - SASS - MySQL 
+📌 CSS - SASS - BEM
 
-📌 BEM - WEBPACK
+📌 PHP - MySQL - HeidiSQL
+
+📌 GIT - GULP - WEBPACK
 
 📌 FIGMA - Photoshop - Illustrator
 
