@@ -4,15 +4,25 @@ En un principio como autodidacta y posteriormente reforzando mis conocimientos c
 
 Skills:
 📌SEO --- ACCESIBILIDAD 
+
 📌HTML 5 --- PUG
+
 📌CSS 3 --- SASS
+
 📌JAVASCRIPT --- APIS 
+
 📌PHP 
+
 📌JAVA
+
 📌C++
+
 📌SQL --- MySQL --- HeidiSQL
+
 📌GIT --- GULP --- WEBPACK
+
 📌FIGMA --- PHOTOSHOP --- ILLUSTRATOR
+
 
 - Correo: AlbanyNVRodriguez@gmail.com
 - linkedin: https://www.linkedin.com/in/albany-vergel-rodriguez-407881208
