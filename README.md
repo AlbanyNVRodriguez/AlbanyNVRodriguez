@@ -1,20 +1,18 @@
-  👋 ¡Hola!, mi nombre es Albany Vergel y soy de Venezuela.
-  
-  Me dedico al Desarrollo Web como Frontend developer.
-  
-  💖 Me encanta aprender nuevas tecnologías y emplearlas en proyectos atractivos e innovadores que me permitan crecer como profesional y aportar al increíble mundo del desarrollo. Como programador autodidacta la disciplina, paciencia y constancia son mis mayores aliados.
+👋Software Developer
 
-  Skills:
-  
-📌 HTML - PUG
+En un principio como autodidacta y posteriormente reforzando mis conocimientos con estudios universitarios en el área de informática, he ganado experiencia y conocimientos a lo largo de los años participando activamente en el mundo digital, desarrollando no solo el interés sino también las habilidades en campos como: Diseño UI, Desarrollo Web, SEO, Desarrollo de Software...
 
-📌 CSS - SASS - BEM
-
-📌 PHP - MySQL - HeidiSQL
-
-📌 GIT - GULP - WEBPACK
-
-📌 FIGMA - Photoshop - Illustrator
+Skills:
+📌SEO --- ACCESIBILIDAD 
+📌HTML 5 --- PUG
+📌CSS 3 --- SASS
+📌JAVASCRIPT --- APIS 
+📌PHP 
+📌JAVA
+📌C++
+📌SQL --- MySQL --- HeidiSQL
+📌GIT --- GULP --- WEBPACK
+📌FIGMA --- PHOTOSHOP --- ILLUSTRATOR
 
 - Correo: AlbanyNVRodriguez@gmail.com
 - linkedin: https://www.linkedin.com/in/albany-vergel-rodriguez-407881208
