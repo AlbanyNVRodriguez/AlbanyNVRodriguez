@@ -1,13 +1,14 @@
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
+
 ### SOFTWARE DEVELOPER 👋
----
+En un principio como autodidacta y posteriormente reforzando mis conocimientos con estudios universitarios en el área de informática, he ganado experiencia y conocimientos a lo largo de los años participando activamente en el mundo digital, desarrollando no solo el interés sino también las habilidades en campos como: Diseño UI, Desarrollo Web, SEO, Desarrollo de Software...
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+#### Contact me
+- Correo: AlbanyNVRodriguez@gmail.com
+- linkedin: https://www.linkedin.com/in/albany-vergel-rodriguez-407881208
 
-
----
-
+<br>
 <table width="100%" border="0">
   <thead align="center">
       <td>
@@ -57,13 +58,6 @@
   </tbody>
 </table>
 
-
-En un principio como autodidacta y posteriormente reforzando mis conocimientos con estudios universitarios en el área de informática, he ganado experiencia y conocimientos a lo largo de los años participando activamente en el mundo digital, desarrollando no solo el interés sino también las habilidades en campos como: Diseño UI, Desarrollo Web, SEO, Desarrollo de Software...
-
-
-
-- Correo: AlbanyNVRodriguez@gmail.com
-- linkedin: https://www.linkedin.com/in/albany-vergel-rodriguez-407881208
 <!---
 AlbanyNVRodriguez/AlbanyNVRodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
