@@ -1,24 +1,35 @@
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
+<img align="right" alt="img" src="https://github.com/AlbanyNVRodriguez/AlbanyNVRodriguez/blob/main/background.png" width="50%" height="auto" />
 
 ### SOFTWARE DEVELOPER 👋
-En un principio como autodidacta y posteriormente reforzando mis conocimientos con estudios universitarios en el área de informática, he ganado experiencia y conocimientos a lo largo de los años participando activamente en el mundo digital, desarrollando no solo el interés sino también las habilidades en campos como: Diseño UI, Desarrollo Web, SEO, Desarrollo de Software...
+Starting as self-taught and later reinforcing my knowledge with university studies in computer science, I have acquired experience and knowledge over the years by actively participating in the area, learning and developing increasingly greater skills.
 
-#### Contact me
+#### Academic studies
+- Bachelor of Science
+- Computer technical engineer
+
+#### Soft skills
+- Responsibility
+- Teamwork
+- Adaptability to changes
+- Open to apprentice
+  
+#### Find me in
 - Correo: AlbanyNVRodriguez@gmail.com
 - linkedin: https://www.linkedin.com/in/albany-vergel-rodriguez-407881208
 
+
+<br>
 <br>
 <table width="100%" border="0">
   <thead align="center">
       <td>
-        <b>TECH</b> 
+        <b>TECHNOLOGIES</b> 
       </td>
       <td>
         <b>TOOLS</b> 
       </td>
       <td>
-        <b>SKILLS</b> 
+        <b>KNOWLEDGE</b> 
       </td>
   </thead>
   <tbody align="center">
@@ -47,12 +58,12 @@ En un principio como autodidacta y posteriormente reforzando mis conocimientos c
         <img src="https://img.shields.io/badge/-BLENDER-EB7700?style=flat&logo=blender&logoColor=FFFFFF">
       </td>
       <td>
-        <img src = "https://img.shields.io/badge/-SOLID-00e6f2?logo=solid&logoColor=FFFFFF""> 
-        <img src = "https://img.shields.io/badge/-APIS-00e6f2"> 
-        <img src = "https://img.shields.io/badge/-SEO-00e6f2">
-        <img src = "https://img.shields.io/badge/-SEM-00e6f2">
-        <img src = "https://img.shields.io/badge/-BEM-00e6f2">
-        <img src = "https://img.shields.io/badge/-MVC-00e6f2">
+        <img src = "https://img.shields.io/badge/-SOLID-gray?logo=solid&logoColor=FFFFFF""> 
+        <img src = "https://img.shields.io/badge/-APIS-gray"> 
+        <img src = "https://img.shields.io/badge/-SEO-gray">
+        <img src = "https://img.shields.io/badge/-SEM-gray">
+        <img src = "https://img.shields.io/badge/-BEM-gray">
+        <img src = "https://img.shields.io/badge/-MVC-gray">
       </td>
     </tr>
   </tbody>
