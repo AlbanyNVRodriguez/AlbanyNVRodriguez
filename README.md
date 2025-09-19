@@ -40,7 +40,7 @@ Starting as self-taught and later reinforcing my knowledge with university studi
         <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/-SASS-cc6699?style=flat&logo=sass&logoColor=ffffff"> 
         <img src="https://img.shields.io/badge/-JAVASCRIPT-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
-        <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"> 
+        <img src = "https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react&logoColor=white">
         <img src = "https://img.shields.io/badge/-JAVA-ED2025?style=flat&logo=java&logoColor=white">
         <img src = "https://img.shields.io/badge/-C++-004283?style=flat&logo=c%2B%2B&logoColor=white">
         <img src = "https://img.shields.io/badge/-PHP-787CB4?style=flat&logo=php&logoColor=white">
@@ -55,15 +55,14 @@ Starting as self-taught and later reinforcing my knowledge with university studi
         <img src="https://img.shields.io/badge/-NetBeanside-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=FFFFFF">
         <img src="https://img.shields.io/badge/-XAMP-FB7A24?style=flat&logo=xampp&logoColor=FFFFFF">
         <img src="https://img.shields.io/badge/-FIGMA-FF7362?style=flat&logo=figma&logoColor=FFFFFF">
-        <img src="https://img.shields.io/badge/-ILLUSTRATOR-2D2E2D?style=flat&logo=illustrator&logoColor=FFFFFF">
-        <img src="https://img.shields.io/badge/-BLENDER-EB7700?style=flat&logo=blender&logoColor=FFFFFF">
+        <img src="https://img.shields.io/badge/-ILLUSTRATOR-EB7700?style=flat&logo=illustrator&logoColor=FFFFFF">
       </td>
       <td>
-        <img src = "https://img.shields.io/badge/-SOLID-gray?logo=solid&logoColor=FFFFFF""> 
-        <img src = "https://img.shields.io/badge/-APIS-gray"> 
         <img src = "https://img.shields.io/badge/-SEO-gray">
         <img src = "https://img.shields.io/badge/-SEM-gray">
         <img src = "https://img.shields.io/badge/-BEM-gray">
+        <img src = "https://img.shields.io/badge/-SOLID-gray"> 
+        <img src = "https://img.shields.io/badge/-SCRUM-gray"> 
         <img src = "https://img.shields.io/badge/-MVC-gray">
       </td>
     </tr>
