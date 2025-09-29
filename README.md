@@ -1,19 +1,46 @@
 <img align="right" alt="img" src="https://github.com/AlbanyNVRodriguez/AlbanyNVRodriguez/blob/main/background.png" width="50%" height="auto" />
 
 ### SOFTWARE DEVELOPER 👋
-Starting as self-taught and later reinforcing my knowledge with university studies in computer science, I have acquired experience and knowledge over the years by actively participating in the area, learning and developing increasingly greater skills.
+Software developer with specialized technical training and a solid foundation in information technologies. My goal is to create efficient, scalable and high-performance technological solutions, applying the best practices and development methodologies. I am passionate about continuous learning, solving and improving complex problems, as well as teamwork to achieve common goals.
 
-#### Academic studies
-- Bachelor of Science
-- Computer technical engineer
 
-#### Soft skills
-- Responsibility
-- Teamwork
-- Adaptability to changes
-- Open to apprentice
-  
-#### Find me in
+#### ACADEMIC STUDIES
+- Bachelor of Science.
+- Associate's degree / Associate in Information Technology.
+
+
+#### TECHNICAL SKILLS
+- Frontend: HTML5, PUG, CSS3, SASS, JavaScript (ES6+).
+- Backend: PHP, Java.
+- Databases: SQL, MySQL (Management with HeidiSQL)
+- Others: C++.
+
+##### Frameworks & Libraries
+- React.js
+
+##### Development Tools
+- Version Control: Git, GitHub.
+- Bundlers: Webpack.
+- Design & Prototyping: Figma, Adobe Illustrator, Adobe Photoshop.
+
+##### Methodologies & Specialized Knowledge
+- Methodologies: SCRUM, BEM (Block Element Modifier).
+- Design and Architecture Patterns: MVC (Model-View-Controller), Design Patterns, Software Architecture Patterns.
+- UX/UI (User Experience and Interface): Principles of User-Centered Design, Prototyping, Wireframing, Design Systems, Usability.
+- SEO & Digital Marketing: SEO (Search Engine Optimization), SEM (Search Engine Marketing).
+- Web Quality and Performance: Performance Optimization, Lazy Loading, Web Accessibility (WCAG), Pixel Perfect.
+
+
+#### SOFT SKILLS
+- Responsibility.
+- Effective Communication.
+- Problem solving.
+- Teamwork.
+- Adaptability to changes.
+- Open to learning.
+
+ 
+#### FIND ME IN
 - Correo: AlbanyNVRodriguez@gmail.com
 - linkedin: https://www.linkedin.com/in/albany-vergel-rodriguez-407881208
 
@@ -47,15 +74,15 @@ Starting as self-taught and later reinforcing my knowledge with university studi
         <img src = "https://img.shields.io/badge/-VisualBasic-512BD4?style=flat&logo=visualbasic&logoColor=white">
         <img src="https://img.shields.io/badge/-MySQL-0072C7?style=flat&logo=mysql&logoColor=FFFFFF">
         <img src="https://img.shields.io/badge/-GIT-grey?style=flat&logo=git&logoColor=FFFFFF"> 
-        <img src="https://img.shields.io/badge/-GULP-EC4B51?style=flat&logo=gulp&logoColor=FFFFFF">
         <img src="https://img.shields.io/badge/-WEBPACK-8FD7FB?style=flat&logo=webpack&logoColor=FFFFFF">
       </td>
       <td>
         <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF">
         <img src="https://img.shields.io/badge/-NetBeanside-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=FFFFFF">
-        <img src="https://img.shields.io/badge/-XAMP-FB7A24?style=flat&logo=xampp&logoColor=FFFFFF">
+        <img src="https://img.shields.io/badge/-XAMP-1B6AC6?style=flat&logo=xampp&logoColor=FFFFFF">
         <img src="https://img.shields.io/badge/-FIGMA-FF7362?style=flat&logo=figma&logoColor=FFFFFF">
-        <img src="https://img.shields.io/badge/-ILLUSTRATOR-EB7700?style=flat&logo=illustrator&logoColor=FFFFFF">
+        <img src="https://img.shields.io/badge/-ILLUSTRATOR-FF7362?style=flat&logo=illustrator&logoColor=FFFFFF">
+        <img src="https://img.shields.io/badge/-PHOTOSHOP-FF7362?style=flat&logo=photoshop&logoColor=FFFFFF">
       </td>
       <td>
         <img src = "https://img.shields.io/badge/-SEO-gray">
@@ -64,6 +91,7 @@ Starting as self-taught and later reinforcing my knowledge with university studi
         <img src = "https://img.shields.io/badge/-SOLID-gray"> 
         <img src = "https://img.shields.io/badge/-SCRUM-gray"> 
         <img src = "https://img.shields.io/badge/-MVC-gray">
+        <img src = "https://img.shields.io/badge/-UX/UI-gray">
       </td>
     </tr>
   </tbody>
