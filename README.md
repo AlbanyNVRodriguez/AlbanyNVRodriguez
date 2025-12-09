@@ -1,4 +1,4 @@
-<img align="right" alt="img" src="https://github.com/AlbanyNVRodriguez/AlbanyNVRodriguez/blob/main/background.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/AlbanyNVRodriguez/AlbanyNVRodriguez/blob/main/bg.png" width="50%" height="auto" />
 
 ### SOFTWARE DEVELOPER 👋
 Software developer with specialized technical training and a solid foundation in information technologies. My goal is to create efficient, scalable and high-performance technological solutions, applying the best practices and development methodologies. I am passionate about continuous learning, solving and improving complex problems, as well as teamwork to achieve common goals.
